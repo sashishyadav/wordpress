@@ -2,6 +2,6 @@
 # define variables for db
 
 mysql_user: root
-wp_mysql_db: wordpress
-wp_mysql_user: wpuser
-wp_mysql_password: pa55w0rd
+wp_mysql_db: wordpress_db
+wp_mysql_user: wordpress_user
+wp_mysql_password: Ashish@24
